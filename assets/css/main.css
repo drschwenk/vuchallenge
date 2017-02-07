@@ -3110,7 +3110,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0;
+		padding: 1em 0;
 		background: #45A9CD;
 		color: #fff;
 		text-align: center;
@@ -3145,7 +3145,7 @@
 		@media screen and (max-width: 980px) {
 
 			#footer {
-				padding: 4em 0;
+				padding: 1em 0;
 			}
 
 		}
@@ -3153,7 +3153,7 @@
 		@media screen and (max-width: 736px) {
 
 			#footer {
-				padding: 3em 0;
+				padding: 1em 0;
 			}
 
 		}
